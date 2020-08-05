@@ -10,3 +10,7 @@ https://milano-patel.github.io/exchange-rate-calculator/
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+## Credit
+Created while Learning the Javascript from Brad Traversy's Udemy Course:
+https://www.udemy.com/course/web-projects-with-vanilla-javascript/
